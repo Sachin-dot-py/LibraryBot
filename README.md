@@ -22,7 +22,7 @@ $ touch credentials.py
 ```
 Add to the credentials.py file in the following format
 ```python3
-TOKEN = '<your telegram token>
+TOKEN = '<your telegram token>'
 URL = '<your webhook path>'
 GOODREADS_KEY = '<your goodreads api key>'
 ```
